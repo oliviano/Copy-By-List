@@ -7,15 +7,15 @@ Usage:
 --------
 Compile into app, or run from script editor.
 
-1	From the dialog prompt select the source folder (file to be copied from)
-2	From the dialog prompt select the destination folder (file to be copied from)
-3	From the dialog prompt select the textlist containing the filename to copy.
+1. From the dialog prompt select the source folder (file to be copied from)
+2. From the dialog prompt select the destination folder (file to be copied from)
+3. wFrom the dialog prompt select the textlist containing the filename to copy.
 
 Text Files List Specification:
 --------
 
-1	Plain Text with Unicode encoding, 
-2	One file name per line such as "filename.extension"
+1. Plain Text with Unicode encoding, 
+2. One file name per line such as "filename.extension"
 
 See example in example folder.
 
